@@ -25,9 +25,9 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful starter',
+    title: 'Haavi - The Landscapers',
   },
-  pathPrefix: '/gatsby-contentful-starter',
+  pathPrefix: '/haavi-gatsby-contentful-starter',
   plugins: [
     'gatsby-transformer-remark',
     'gatsby-transformer-sharp',
