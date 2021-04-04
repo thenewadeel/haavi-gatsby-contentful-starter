@@ -18,9 +18,7 @@ class Contact extends React.Component {
       <Layout location={this.props.location}>
         <div style={{ background: '#fff' }}>
           <h2 className="section-headline">Contact Us . . .</h2>
-          <Profile />
-          <Skills />
-          <Team />
+          TODO : Insert contact form here
           {/* <Helmet title={siteTitle} />
           <div className={styles.hero}>Blog</div>
           <div className="wrapper">
